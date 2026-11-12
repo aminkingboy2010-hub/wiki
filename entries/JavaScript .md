@@ -1,0 +1,1 @@
+JavaScript is a programming language that makes websites interactive. It handles actions like clicks, animations, and form checks.
